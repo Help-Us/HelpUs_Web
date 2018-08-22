@@ -238,7 +238,7 @@ body {
 
 .sign-ligin-btns ul li a.signup {
     background-color: : rgb(0,0,0,0);
-    color: #3c3c3c;
+    color: #777777;
 }
 
 .sign-ligin-btns ul li a.signup:hover {
@@ -248,7 +248,7 @@ body {
 
 .sign-ligin-btns ul li a.login {
     background-color: : rgb(0,0,0,0);
-    color: #3c3c3c;
+    color: #777777;
 }
 
 .sign-ligin-btns ul li a.login:hover {
