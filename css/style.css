@@ -237,23 +237,23 @@ body {
 }
 
 .sign-ligin-btns ul li a.signup {
-    background-color: : rgb(0,0,0,0);
+    background-color: : #fff;
     color: #777777;
 }
 
 .sign-ligin-btns ul li a.signup:hover {
     color: : #000;
-    background-color: : rgb(0,0,0,0);
+    background-color: : #fff;
 }
 
 .sign-ligin-btns ul li a.login {
-    background-color: : rgb(0,0,0,0);
+    background-color: : #fff;
     color: #777777;
 }
 
 .sign-ligin-btns ul li a.login:hover {
     color: : #000;
-    background-color: : rgb(0,0,0,0);
+    background-color: : #fff;
 }
 
 .text-slider {
@@ -397,6 +397,7 @@ body {
 }
 
 .footer-grid {
+    padding-top: 10px;
     width: 24%;
     float: left;
     margin-right: 2%;
@@ -462,7 +463,8 @@ body {
 
 
 .footer-grids {
-    padding: 3em 0 5em;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 .copy-right a {
@@ -904,7 +906,8 @@ fieldset#body {
 }
 
 .active span:hover {
-    color: #FFF;
+    color: #000;
+    background-color: #fff;
 }
 
 /* Login Form */
