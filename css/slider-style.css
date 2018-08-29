@@ -60,6 +60,9 @@
 }
 
 .da-slide h2 {
+    font-size: 50px !important;
+    margin-left: 74px !important;
+    margin-top: 84px !important;
     color: #FFFFFF;
     width: 77%;
     top: 120px;
@@ -73,9 +76,10 @@
 }
 
 .da-slide p {
+    margin-left: 115px !important;
     top: 190px;
     color: #FFFFFF;
-    padding-top: 30px;
+    padding-top: 80px;
     font-size: 5.5em;
     overflow: hidden;
     font-family: 'open_sansregular';
@@ -196,7 +200,7 @@
     height: 20px;
     top: 5px;
     left: 5px;
-    background: transparent url(../images/arrows.png) no-repeat top left;
+    background: transparent url(../images/img_main_btn_r.png) no-repeat top left;
     border-radius: 50%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
@@ -222,7 +226,7 @@
 }
 
 .da-slide-current h2, .da-slide-current p, .da-slide-current .da-link {
-    left: 10%;
+    left: 30%;
     opacity: 1;
 }
 
