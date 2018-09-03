@@ -360,8 +360,8 @@ body {
     display: block;
 }
 
-.main_text_img {
-    padding-top: 170px;
+#main_text_img {
+    padding-top: 170px !important;
 }
 
 .mid-grids-right ul {
