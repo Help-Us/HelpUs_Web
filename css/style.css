@@ -360,6 +360,10 @@ body {
     display: block;
 }
 
+.main_text_img {
+    padding-top: 170px;
+}
+
 .mid-grids-right ul {
     margin: 0.6em 0 1.1em;
 }
